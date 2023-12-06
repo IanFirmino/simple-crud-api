@@ -1,2 +1,2 @@
 # simple-crud-api
-API simples feita em ASP .NET
+API simples feita em ASP.NET
